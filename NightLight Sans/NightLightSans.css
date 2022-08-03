@@ -1,0 +1,54 @@
+/*
+/  If your project isn't part of NightLight, you cannot use this font in it.
+/  Take a look at Google Fonts or Adobe Fonts for free-to-use fonts. NiLiDev/
+/  Fonts Github repository is public because this is the most convenient way
+/  to store NightLight Sans online.
+*/
+
+@font-face {
+  font-family: 'NightLight Sans';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/NiLiDev/Fonts/main/NightLight%20Sans/NightLightSans100Thin.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'NightLight Sans';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/NiLiDev/Fonts/main/NightLight%20Sans/NightLightSans200ExtraLight.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'NightLight Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/NiLiDev/Fonts/main/NightLight%20Sans/NightLightSans300Light.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'NightLight Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/NiLiDev/Fonts/main/NightLight%20Sans/NightLightSans400Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'NightLight Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/NiLiDev/Fonts/main/NightLight%20Sans/NightLightSans500Medium.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'NightLight Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/NiLiDev/Fonts/main/NightLight%20Sans/NightLightSans600SemiBold.woff2) format('woff2');
+}
