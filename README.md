@@ -8,6 +8,7 @@ You might have a question: **why then repository is public?**
 ## Current fonts:
 
 ### NightLight Sans
+![NightLight Sans](https://raw.githubusercontent.com/NiLiDev/Fonts/main/NightLight%20Sans/NightLightSans.webp)
 - **NightLight Sans is not a free-to-use font.** Only verified NightLight projects can use it.
 - You can use NightLight Sans for non-commercial, non-public purposes, when the way you use a font does not go beyond a narrow circle of people.
 - These rules apply to all the NightLight Sans family fonts:
