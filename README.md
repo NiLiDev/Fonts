@@ -11,10 +11,10 @@ You might have a question: **why then repository is public?**
 - **NightLight Sans is not a free-to-use font.** Only verified NightLight projects can use it.
 - You can use NightLight Sans for non-commercial, non-public purposes, when the way you use a font does not go beyond a narrow circle of people.
 - These rules apply to all the NightLight Sans family fonts:
- - Thin (100)
- - ExtraLight (200)
- - Light (300)
- - Regular (400)
- - Medium (500)
- - SemiBold (600)
- - ... and their italic versions.
+  - Thin (100)
+  - ExtraLight (200)
+  - Light (300)
+  - Regular (400)
+  - Medium (500)
+  - SemiBold (600)
+  - ... and their italic versions.
