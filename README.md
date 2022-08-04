@@ -19,3 +19,4 @@ You might have a question: **why then repository is public?**
   - Medium (500)
   - SemiBold (600)
   - ... and their italic versions.
+Additionally we don't recommend using NightLight Sans in graphical user interfaces (GUIs) because of possible bugs.
